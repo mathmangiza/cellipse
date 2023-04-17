@@ -1,1 +1,1 @@
-default: e.c
+default: e
